@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppTheMovieDB</string>
+    <string name="conLost">Probelmas de Conexion</string>
+    <string name="subtitle">Subtitulo</string>
+    <string name="movieinfo">Pelicula Informacion</string>
+    <string name="relasedate">Lanzamiento</string>
+    <string name="relase_dte">2019</string>
+</resources>
