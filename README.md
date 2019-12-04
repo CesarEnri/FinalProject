@@ -22,3 +22,7 @@ Algunas de las cosas que aprendi en el tutorial fue como Rx Java, que se utiliza
 
 
 ![alt tag](https://github.com/CesarEnri/FinalProject/blob/master/app/src/main/res/mipmap-mdpi/p1.jpg)
+![alt tag](https://github.com/CesarEnri/FinalProject/blob/master/app/src/main/res/mipmap-mdpi/p2.jpg)
+![alt tag](https://github.com/CesarEnri/FinalProject/blob/master/app/src/main/res/mipmap-mdpi/p3.jpg)
+![alt tag](https://github.com/CesarEnri/FinalProject/blob/master/app/src/main/res/mipmap-mdpi/p4.jpg)
+![alt tag](https://github.com/CesarEnri/FinalProject/blob/master/app/src/main/res/mipmap-mdpi/p5.jpg)
