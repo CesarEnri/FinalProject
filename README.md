@@ -21,4 +21,4 @@ Para realizar esta app utilice los siguientes componentes:
 Algunas de las cosas que aprendi en el tutorial fue como Rx Java, que se utiliza para limpiar los fragmentos agregados a la actividad ya que estos se quedan en memoria.
 
 
-![alt tag](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png)
+![alt tag](https://github.com/CesarEnri/FinalProject/blob/master/app/src/main/res/mipmap-mdpi/p1.jpg)
