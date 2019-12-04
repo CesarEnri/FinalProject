@@ -3,6 +3,7 @@ package com.test.appthemoviedb.UI.detalle_de_peliculas
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
+import android.view.Window
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
@@ -27,6 +28,7 @@ class SingleMovie : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_single_movie)
+
 
         val movieId: Int = intent.getIntExtra("id",1)
 

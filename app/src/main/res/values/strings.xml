@@ -1,8 +1,13 @@
 <resources>
-    <string name="app_name">AppTheMovieDB</string>
+    <string name="app_name">Peli+</string>
     <string name="conLost">Probelmas de Conexion</string>
-    <string name="subtitle">Subtitulo</string>
+    <string name="subtitle">La historia detras del Payaso</string>
     <string name="movieinfo">Pelicula Informacion</string>
     <string name="relasedate">Lanzamiento</string>
     <string name="relase_dte">2019</string>
+    <string name="recaudacion">Recaudación</string>
+    <string name="puntuacion">Puntuación</string>
+    <string name="presupuesto">Presupuesto</string>
+    <string name="duracion">Duración</string>
+    <string name="acerca">Acerca</string>
 </resources>
